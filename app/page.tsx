@@ -2,7 +2,6 @@
 import { Banner } from "./components/Banner";
 import { Benefits } from "./components/Benefits";
 import { BenefitsCard } from "./components/BenefitsCard";
-import { PackageCard } from "./components/PackageCard";
 import { Packages } from "./components/Packages";
 
 export default function Home() {
