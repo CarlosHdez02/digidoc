@@ -33,7 +33,7 @@ export const PackageCard = () => {
                  hover:scale-105 transition-transform duration-300 flex flex-col h-full"
           >
             <div className="p-6 flex flex-col h-full">
-              <h3 className="text-blue-600 font-medium text-lg mb-2">
+              <h3 className="text-blue-600 font-medium text-lg mb-2 text-center ">
                 {myPackage.name}
               </h3>
 
